@@ -66,4 +66,4 @@
 
 * уметь писать на С++ эффективный код без ущерба для readability и maintainability кода.
 
-![img]()
+![img](img.jpg)
